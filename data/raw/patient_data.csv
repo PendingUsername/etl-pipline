@@ -1,0 +1,4 @@
+patient_id,name,age,gender,diagnosis,visit_date
+1,John Doe,45,M,Diabetes,2023-01-15
+2,Jane Smith,37,F,Hypertension,2023-02-21
+3,Michael Jones,50,M,Asthma,2023-01-30
